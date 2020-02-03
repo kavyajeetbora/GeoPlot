@@ -5,7 +5,7 @@ This helps to give an idea about the terrain and also can be used to draw the so
 | Borehole|Depth (m)|Chainage (m)|Strata|
 |-----:|-----:| -----:|-----:|-----:|
 |1|4.0|29.71|Fill|
-|1|7.5|29.71|29.61|Clay|
-|1|14.25|29.71|Highly Weathered Rock|
+|1|7.5|29.71|Clay|
+|1|14.25|29.71|Silty Sand|
 
 ![alt text](https://github.com/kavyajeetbora/GeoPlot/blob/master/geoplot.png)
