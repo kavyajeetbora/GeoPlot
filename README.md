@@ -6,6 +6,7 @@ This helps to give an idea about the terrain and also can be used to draw the so
 
 
 **Given Data in csv format**
+
 | Borehole|Depth (m)|Chainage (m)|Strata|
 |-----:|-----:| -----:| -----:|
 |1|4.0|29.71|Fill|
