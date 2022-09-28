@@ -15,4 +15,5 @@ This helps to give an idea about the terrain and also can be used to draw the so
 
 **TO**
 
-![alt text](https://github.com/kavyajeetbora/GeoPlot/blob/master/geoplot.png)
+
+<img width="1064" alt="geoplot" src="https://user-images.githubusercontent.com/38955297/192734765-b668554a-c87a-41a5-bc4c-d9b581d4f36f.png">
